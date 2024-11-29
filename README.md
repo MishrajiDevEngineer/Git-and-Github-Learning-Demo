@@ -10,9 +10,9 @@ This repository is created by: Author- Brijesh Kumar Mishra
 
 
 <h1>Clone and Status</h1>
-<p>There are two commands on git bash</p>
+<p>There are two commands on git bash</p> <br>
 
-1)clone: cloning a repository on our local machine
+1)clone: cloning a repository on our local machine i.e remote to local machine cloning<br>
 git clone  <-some link ->
-
-2)Status: 
+<br>
+2)Status: Display the state of the code
