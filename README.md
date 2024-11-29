@@ -1,7 +1,7 @@
 # Git-and-Github-Learning-Demo
 Learning git and github using apna college
 <br>
-This repository is created by: Author- Brijesh Kumar Mishra
+This repository is created by: Author- Brijesh Kumar Mishra @mishrajialive
 
 <h1>Configuring Git</h1>
 1) git config --global user.name "My Name" <br>
